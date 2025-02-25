@@ -1,16 +1,13 @@
 ## Hi there 👋
-
-<!--
-**arjitrawat15/arjitrawat15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  I'm Arjit Rawat, a Software Engineer passionate about building intelligent and scalable solutions. 🚀
+  👨‍💻 About Me:
+- 🔭  Currently working on AI & Machine Learning to create smart and efficient systems.
+- 🌱 Exploring Deep Learning, NLP, and Data Science to push the boundaries of innovation.
+- 👯 Open to collaborating on AI-driven applications, open-source contributions, and cutting-edge research.
+- 🤔 Looking for insights on model optimization, deployment, and real-world AI applications.
+- 💬 Ask me about Python, Machine Learning, Neural Networks, and Scalable Systems.
+- 📫 How to reach me: on my linkedIn 🔗www.linkedin.com/in/arjitrawat15 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I once spent hours debugging, only to realize the issue was a missing semicolon. Now I let AI do the debugging while I sip coffee! ☕🤖
+- 📊 GitHub Stats:
+💡 "The best way to predict the future is to invent it." – Alan Kay
