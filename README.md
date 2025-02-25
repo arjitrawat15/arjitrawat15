@@ -1,6 +1,6 @@
 ## Hi there 👋
   I'm Arjit Rawat, a Software Engineer passionate about building intelligent and scalable solutions. 🚀
-  👨‍💻 About Me:
+# 👨‍💻 About Me:
 - 🔭  Currently working on AI & Machine Learning to create smart and efficient systems.
 - 🌱 Exploring Deep Learning, NLP, and Data Science to push the boundaries of innovation.
 - 👯 Open to collaborating on AI-driven applications, open-source contributions, and cutting-edge research.
